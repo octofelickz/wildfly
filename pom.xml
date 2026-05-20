@@ -345,7 +345,7 @@
         <version.httpunit>1.7.3</version.httpunit>
         <legacy.version.io.netty>4.0.19.Final</legacy.version.io.netty>
         <version.io.rest-assured>3.0.7</version.io.rest-assured>
-        <version.org.keycloak.keycloak-services>3.1.0.Final</version.org.keycloak.keycloak-services>
+        <version.org.keycloak.keycloak-services>26.6.2</version.org.keycloak.keycloak-services>
         <legacy.version.jakarta.enterprise>2.0.2</legacy.version.jakarta.enterprise>
         <legacy.version.jakarta.inject.jakarta.inject-api>1.0.5</legacy.version.jakarta.inject.jakarta.inject-api>
         <version.jaxen>1.1.6</version.jaxen>
